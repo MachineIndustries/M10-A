@@ -283,28 +283,28 @@
 <text x="6" y="3" size="0.5" layer="25" rot="SR270" align="center">POS-A</text>
 <text x="6" y="3" size="0.5" layer="26" rot="MR270" align="center">POS-C</text>
 <text x="74" y="97" size="0.5" layer="26" rot="SMR270" align="center">POS-D</text>
-<wire x1="61.6" y1="93" x2="18.4" y2="93" width="0.3" layer="26"/>
-<wire x1="18.4" y1="93" x2="17.4" y2="92" width="0.3" layer="26" curve="90"/>
-<wire x1="17.4" y1="92" x2="17.4" y2="90" width="0.3" layer="26"/>
-<wire x1="17.4" y1="90" x2="18.4" y2="89" width="0.3" layer="26" curve="90"/>
-<wire x1="18.4" y1="89" x2="61.6" y2="89" width="0.3" layer="26"/>
-<wire x1="61.6" y1="89" x2="62.6" y2="90" width="0.3" layer="26" curve="90"/>
-<wire x1="62.6" y1="90" x2="62.6" y2="92" width="0.3" layer="26"/>
-<wire x1="62.6" y1="92" x2="61.6" y2="93" width="0.3" layer="26" curve="90"/>
+<wire x1="61.6" y1="93" x2="18.4" y2="93" width="0.2" layer="26"/>
+<wire x1="18.4" y1="93" x2="17.4" y2="92" width="0.2" layer="26" curve="90"/>
+<wire x1="17.4" y1="92" x2="17.4" y2="90" width="0.2" layer="26"/>
+<wire x1="17.4" y1="90" x2="18.4" y2="89" width="0.2" layer="26" curve="90"/>
+<wire x1="18.4" y1="89" x2="61.6" y2="89" width="0.2" layer="26"/>
+<wire x1="61.6" y1="89" x2="62.6" y2="90" width="0.2" layer="26" curve="90"/>
+<wire x1="62.6" y1="90" x2="62.6" y2="92" width="0.2" layer="26"/>
+<wire x1="62.6" y1="92" x2="61.6" y2="93" width="0.2" layer="26" curve="90"/>
 <text x="74" y="2" size="1" layer="25" align="center">5V PLANE</text>
-<wire x1="70.6" y1="3" x2="77.4" y2="3" width="0.3" layer="25"/>
-<wire x1="77.4" y1="3" x2="78.4" y2="2" width="0.3" layer="25" curve="-90"/>
-<wire x1="78.4" y1="2" x2="77.4" y2="1" width="0.3" layer="25" curve="-90"/>
-<wire x1="77.4" y1="1" x2="70.5" y2="1" width="0.3" layer="25"/>
-<wire x1="70.5" y1="1" x2="69.6" y2="2" width="0.3" layer="25" curve="-90"/>
-<wire x1="69.6" y1="2" x2="70.6" y2="3" width="0.3" layer="25" curve="-90"/>
+<wire x1="70.6" y1="3" x2="77.4" y2="3" width="0.2" layer="25"/>
+<wire x1="77.4" y1="3" x2="78.4" y2="2" width="0.2" layer="25" curve="-90"/>
+<wire x1="78.4" y1="2" x2="77.4" y2="1" width="0.2" layer="25" curve="-90"/>
+<wire x1="77.4" y1="1" x2="70.5" y2="1" width="0.2" layer="25"/>
+<wire x1="70.5" y1="1" x2="69.6" y2="2" width="0.2" layer="25" curve="-90"/>
+<wire x1="69.6" y1="2" x2="70.6" y2="3" width="0.2" layer="25" curve="-90"/>
 <text x="74" y="2" size="1" layer="26" rot="MR0" align="center">GND PLANE</text>
-<wire x1="70" y1="3" x2="78" y2="3" width="0.3" layer="26"/>
-<wire x1="78" y1="3" x2="79" y2="2" width="0.3" layer="26" curve="-90"/>
-<wire x1="79" y1="2" x2="78" y2="1" width="0.3" layer="26" curve="-90"/>
-<wire x1="78" y1="1" x2="70" y2="1" width="0.3" layer="26"/>
-<wire x1="70" y1="1" x2="69" y2="2" width="0.3" layer="26" curve="-90"/>
-<wire x1="69" y1="2" x2="70" y2="3" width="0.3" layer="26" curve="-90"/>
+<wire x1="70" y1="3" x2="78" y2="3" width="0.2" layer="26"/>
+<wire x1="78" y1="3" x2="79" y2="2" width="0.2" layer="26" curve="-90"/>
+<wire x1="79" y1="2" x2="78" y2="1" width="0.2" layer="26" curve="-90"/>
+<wire x1="78" y1="1" x2="70" y2="1" width="0.2" layer="26"/>
+<wire x1="70" y1="1" x2="69" y2="2" width="0.2" layer="26" curve="-90"/>
+<wire x1="69" y1="2" x2="70" y2="3" width="0.2" layer="26" curve="-90"/>
 <text x="14" y="97.1" size="1" layer="25">ISSUE NO:</text>
 <text x="43" y="97" size="1" layer="25">CHECKED BY:</text>
 <polygon width="0.15" layer="26">
@@ -344,14 +344,14 @@
 </polygon>
 <text x="48" y="3" size="1" layer="26" rot="MR0">Github.com/MachineIndustries/M10-A</text>
 <text x="48" y="5" size="1" layer="26" rot="MR0">OPEN SOURCE HARDWARE</text>
-<wire x1="49" y1="6" x2="49" y2="3" width="0.3" layer="26"/>
+<wire x1="49" y1="6" x2="49" y2="3" width="0.2" layer="26"/>
 <text x="64" y="28" size="1" layer="25" align="center">RESET</text>
-<wire x1="66" y1="29" x2="62" y2="29" width="0.3" layer="25"/>
-<wire x1="62" y1="29" x2="61" y2="28" width="0.3" layer="25" curve="90"/>
-<wire x1="61" y1="28" x2="62" y2="27" width="0.3" layer="25" curve="90"/>
-<wire x1="62" y1="27" x2="66" y2="27" width="0.3" layer="25"/>
-<wire x1="66" y1="27" x2="67" y2="28" width="0.3" layer="25" curve="90"/>
-<wire x1="67" y1="28" x2="66" y2="29" width="0.3" layer="25" curve="90"/>
+<wire x1="66" y1="29" x2="62" y2="29" width="0.2" layer="25"/>
+<wire x1="62" y1="29" x2="61" y2="28" width="0.2" layer="25" curve="90"/>
+<wire x1="61" y1="28" x2="62" y2="27" width="0.2" layer="25" curve="90"/>
+<wire x1="62" y1="27" x2="66" y2="27" width="0.2" layer="25"/>
+<wire x1="66" y1="27" x2="67" y2="28" width="0.2" layer="25" curve="90"/>
+<wire x1="67" y1="28" x2="66" y2="29" width="0.2" layer="25" curve="90"/>
 <text x="43" y="11" size="1" layer="26" rot="SMR270">MISO</text>
 <text x="40.5" y="11" size="1" layer="26" rot="SMR270">SCK</text>
 <text x="38" y="11" size="1" layer="26" rot="SMR270">RST</text>
@@ -583,19 +583,19 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pad name="LED2" x="1.397" y="-4.791" drill="1.82" diameter="2.286"/>
 <hole x="5.08" y="0" drill="1.8"/>
 <hole x="-5.08" y="0" drill="1.8"/>
-<wire x1="-9" y1="7" x2="-9" y2="-7" width="0.3" layer="25"/>
-<wire x1="-9" y1="7" x2="-7" y2="9" width="0.3" layer="25" curve="-90"/>
-<wire x1="-7" y1="9" x2="7" y2="9" width="0.3" layer="25"/>
-<wire x1="7" y1="9" x2="9" y2="7" width="0.3" layer="25" curve="-90"/>
-<wire x1="9" y1="7" x2="9" y2="-7" width="0.3" layer="25"/>
-<wire x1="9" y1="-7" x2="7" y2="-9" width="0.3" layer="25" curve="-90"/>
-<wire x1="7" y1="-9" x2="-7" y2="-9" width="0.3" layer="25"/>
-<wire x1="-7" y1="-9" x2="-9" y2="-7" width="0.3" layer="25" curve="-90"/>
-<wire x1="-5" y1="-4.3" x2="-5" y2="-4.8" width="0.3" layer="25"/>
-<wire x1="-5" y1="-4.8" x2="-5" y2="-5.3" width="0.3" layer="25"/>
-<wire x1="-5" y1="-4.8" x2="-5.5" y2="-4.8" width="0.3" layer="25"/>
-<wire x1="-5" y1="-4.8" x2="-4.5" y2="-4.8" width="0.3" layer="25"/>
-<wire x1="4.5" y1="-4.8" x2="5.5" y2="-4.8" width="0.3" layer="25"/>
+<wire x1="-9" y1="7" x2="-9" y2="-7" width="0.2" layer="25"/>
+<wire x1="-9" y1="7" x2="-7" y2="9" width="0.2" layer="25" curve="-90"/>
+<wire x1="-7" y1="9" x2="7" y2="9" width="0.2" layer="25"/>
+<wire x1="7" y1="9" x2="9" y2="7" width="0.2" layer="25" curve="-90"/>
+<wire x1="9" y1="7" x2="9" y2="-7" width="0.2" layer="25"/>
+<wire x1="9" y1="-7" x2="7" y2="-9" width="0.2" layer="25" curve="-90"/>
+<wire x1="7" y1="-9" x2="-7" y2="-9" width="0.2" layer="25"/>
+<wire x1="-7" y1="-9" x2="-9" y2="-7" width="0.2" layer="25" curve="-90"/>
+<wire x1="-5" y1="-4.3" x2="-5" y2="-4.8" width="0.2" layer="25"/>
+<wire x1="-5" y1="-4.8" x2="-5" y2="-5.3" width="0.2" layer="25"/>
+<wire x1="-5" y1="-4.8" x2="-5.5" y2="-4.8" width="0.2" layer="25"/>
+<wire x1="-5" y1="-4.8" x2="-4.5" y2="-4.8" width="0.2" layer="25"/>
+<wire x1="4.5" y1="-4.8" x2="5.5" y2="-4.8" width="0.2" layer="25"/>
 </package>
 </packages>
 </library>

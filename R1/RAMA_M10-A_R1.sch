@@ -4946,19 +4946,19 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <pad name="LED2" x="1.397" y="-4.791" drill="1.82" diameter="2.286"/>
 <hole x="5.08" y="0" drill="1.8"/>
 <hole x="-5.08" y="0" drill="1.8"/>
-<wire x1="-9" y1="7" x2="-9" y2="-7" width="0.3" layer="25"/>
-<wire x1="-9" y1="7" x2="-7" y2="9" width="0.3" layer="25" curve="-90"/>
-<wire x1="-7" y1="9" x2="7" y2="9" width="0.3" layer="25"/>
-<wire x1="7" y1="9" x2="9" y2="7" width="0.3" layer="25" curve="-90"/>
-<wire x1="9" y1="7" x2="9" y2="-7" width="0.3" layer="25"/>
-<wire x1="9" y1="-7" x2="7" y2="-9" width="0.3" layer="25" curve="-90"/>
-<wire x1="7" y1="-9" x2="-7" y2="-9" width="0.3" layer="25"/>
-<wire x1="-7" y1="-9" x2="-9" y2="-7" width="0.3" layer="25" curve="-90"/>
-<wire x1="-5" y1="-4.3" x2="-5" y2="-4.8" width="0.3" layer="25"/>
-<wire x1="-5" y1="-4.8" x2="-5" y2="-5.3" width="0.3" layer="25"/>
-<wire x1="-5" y1="-4.8" x2="-5.5" y2="-4.8" width="0.3" layer="25"/>
-<wire x1="-5" y1="-4.8" x2="-4.5" y2="-4.8" width="0.3" layer="25"/>
-<wire x1="4.5" y1="-4.8" x2="5.5" y2="-4.8" width="0.3" layer="25"/>
+<wire x1="-9" y1="7" x2="-9" y2="-7" width="0.2" layer="25"/>
+<wire x1="-9" y1="7" x2="-7" y2="9" width="0.2" layer="25" curve="-90"/>
+<wire x1="-7" y1="9" x2="7" y2="9" width="0.2" layer="25"/>
+<wire x1="7" y1="9" x2="9" y2="7" width="0.2" layer="25" curve="-90"/>
+<wire x1="9" y1="7" x2="9" y2="-7" width="0.2" layer="25"/>
+<wire x1="9" y1="-7" x2="7" y2="-9" width="0.2" layer="25" curve="-90"/>
+<wire x1="7" y1="-9" x2="-7" y2="-9" width="0.2" layer="25"/>
+<wire x1="-7" y1="-9" x2="-9" y2="-7" width="0.2" layer="25" curve="-90"/>
+<wire x1="-5" y1="-4.3" x2="-5" y2="-4.8" width="0.2" layer="25"/>
+<wire x1="-5" y1="-4.8" x2="-5" y2="-5.3" width="0.2" layer="25"/>
+<wire x1="-5" y1="-4.8" x2="-5.5" y2="-4.8" width="0.2" layer="25"/>
+<wire x1="-5" y1="-4.8" x2="-4.5" y2="-4.8" width="0.2" layer="25"/>
+<wire x1="4.5" y1="-4.8" x2="5.5" y2="-4.8" width="0.2" layer="25"/>
 </package>
 </packages>
 <symbols>
