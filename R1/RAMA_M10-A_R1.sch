@@ -5513,7 +5513,10 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <instance part="C7" gate="G$1" x="271.78" y="76.2" rot="R90"/>
 <instance part="C8" gate="G$1" x="266.7" y="35.56"/>
 <instance part="C9" gate="G$1" x="276.86" y="35.56"/>
-<instance part="R1" gate="G$1" x="281.94" y="73.66"/>
+<instance part="R1" gate="G$1" x="281.94" y="73.66" smashed="yes">
+<attribute name="NAME" x="281.94" y="71.12" size="1.27" layer="95" font="vector" align="center"/>
+<attribute name="VALUE" x="281.94" y="73.66" size="1.016" layer="96" font="vector" ratio="15" align="center"/>
+</instance>
 <instance part="R2" gate="G$1" x="281.94" y="66.04"/>
 <instance part="R3" gate="G$1" x="284.48" y="43.18" rot="R90"/>
 <instance part="GND13" gate="1" x="243.84" y="25.4"/>
